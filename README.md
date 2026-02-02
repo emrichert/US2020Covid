@@ -14,8 +14,8 @@ The proportional symbol map allows the user to click on a dot to get the name of
 
 
 #### Libraries in use
-Mapbox GL JS for map style
-Google Fonts library - Open Sans and Oswald
+* Mapbox GL JS for map style. 
+* Google Fonts library - Open Sans and Oswald
 
 
 
