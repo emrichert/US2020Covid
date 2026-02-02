@@ -3,9 +3,9 @@
 ## About
 This project maps the US Covid-19 rates and case counts by county in the year 2020. Covid rates are mapped with a chloropleth map, while Covid case counts are mapped with proportional symbols.
 #### [Chloropleth Map](https://emrichert.github.io/US2020Covid/map1.html)
-![Covid-19 Rates US 2020 Chloropleth Map](img\chloropleth-rates.png)
+![Covid-19 Rates US 2020 Chloropleth Map](img/chloropleth-rates.png)
 #### [Proportional Symbol Map](https://emrichert.github.io/US2020Covid/map2.html)
-![Covid-19 Cases US 2020 Proportional Symbol Map](img\proportional-counts.png)
+![Covid-19 Cases US 2020 Proportional Symbol Map](img/proportional-counts.png)
 
 #### Primary Function
 The chloropleth map allows the user to hover over a county to get the name of the county (and its state) with their respective Covid-19 rate (out of 1000 people). The 5 classes are natural breaks and ArcGIS was used to get the specific break values.
