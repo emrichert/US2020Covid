@@ -1,5 +1,8 @@
 # US COVID-19 2020 Maps
 
+#### AI Disclosure
+I used AI in this assignment for debugging. I did not use AI to write or complete any components where AI use is prohibited. If AI was used for debugging or development, I am able to explain the relevant code and decisions.
+
 #### About
 This project maps the US Covid-19 rates and case counts by county in the year 2020. Covid rates are mapped with a chloropleth map, while Covid case counts are mapped with proportional symbols.
 #### [Chloropleth Map](https://emrichert.github.io/US2020Covid/map1.html)
