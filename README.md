@@ -1,6 +1,6 @@
 # US COVID-19 2020 Maps
 
-## About
+#### About
 This project maps the US Covid-19 rates and case counts by county in the year 2020. Covid rates are mapped with a chloropleth map, while Covid case counts are mapped with proportional symbols.
 #### [Chloropleth Map](https://emrichert.github.io/US2020Covid/map1.html)
 ![Covid-19 Rates US 2020 Chloropleth Map](img/chloropleth-rates.png)
